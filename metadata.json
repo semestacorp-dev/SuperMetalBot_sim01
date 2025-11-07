@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SuperMetaBot Chatbot",
+  "description": "A chatbot demonstrating a 'Stage Gate' compliant inference process, sanitizing sensitive data before interacting with a Gemini-like AI backend, inspired by the provided C# microservice logic.",
+  "requestFramePermissions": []
+}
